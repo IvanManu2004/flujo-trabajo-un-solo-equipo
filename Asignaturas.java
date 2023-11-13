@@ -6,7 +6,7 @@ public class Asignaturas {
     System.out.println("Bases de datos");
     System.out.println("Sistemas Informaticos");
     System.out.println("Lenguaje de marcas y sistemas gestores de informacion");
-    System.out.println("Formacion y Orientacion Laboral");
+    System.out.println("Formacion y Orientacion Laboral (convalidada)");
     
   }
   
