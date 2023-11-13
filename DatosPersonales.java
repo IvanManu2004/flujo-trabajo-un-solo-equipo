@@ -1,0 +1,9 @@
+public class DatosPersonales {
+  
+  public static void main(String[] args) {
+    System.out.println("Mi nombre es Iván Manuel Fernández Fernández");
+    System.out.println("Mi instituto es el IES San Andres");
+    
+  }
+  
+}
